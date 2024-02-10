@@ -1,30 +1,30 @@
 import fs from 'fs';
-
 const config: Config = {
-	apiId: 0,
-	apiHash: '',
-	token: '',
-	staff: [],
-	channels: {
-		proofTopics: 0,
-		publicLog: 0,
-		privateReports: 0,
-		privateAppeals: 0,
-		privateProofDump: 0,
-		whitelist: [],
-	},
-	options: {
-		revokeMessagesOnBan: true,
-	},
-	cooldowns: {
-		reports: 30,
-		appeals: 60 * 24 * 7, // 7 days
-		advertisement: 60 * 16, // 16 hours
-		memberScrape: 60 * 24 * 7, // 7 days
-	},
+    apiId: 28757012, // Replace with your API ID
+    apiHash: 'e397d7a295c6c2dbcc31dad45b7c6405', // Replace with your API hash
+    token: '6975392056:AAE9yI5EbkhPA_M9oLGQDesyxRAhoHsYM-M', // Replace with your bot token
+    staff: [6075292981],
+    channels: {
+        proofTopics: -4152640080,
+        publicLog: -1002039778366,
+        privateReports: -4152640080,
+        privateAppeals: -4152640080,
+        privateProofDump: -4152640080,
+        whitelist: [],
+    },
+    options: {
+        revokeMessagesOnBan: true,
+    },
+    cooldowns: {
+        reports: 30,
+        appeals: 60 * 24 * 7, // 7 days
+        advertisement: 60 * 16, // 16 hours
+        memberScrape: 60 * 24 * 7, // 7 days
+    },
+
 	mongo: {
-		dbName: 'caution',
-		url: 'mongodb://127.0.0.1:27017',
+		dbName: 'ggs',
+		url: 'mongodb+srv://Zig:zigzag@ggscams.dtmoxl4.mongodb.net/',
 	},
 };
 
