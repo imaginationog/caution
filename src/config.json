@@ -1,0 +1,29 @@
+{
+    "apiId": 28757012,
+    "apiHash": "e397d7a295c6c2dbcc31dad45b7c6405",
+    "token": "6975392056:AAFzkNFqAtDr11qRKotDCDruvH4nR3XsfsU",
+    "staff": [
+        6075292981, 6066784716, 5695447935, 1428117051, 6324435961
+    ],
+    "channels": {
+        "proofTopics": -1002009626163,
+        "publicLog": -1002039778366,
+        "privateReports": -4152640080,
+        "privateAppeals": -4152640080,
+        "privateProofDump": -4152640080,
+        "whitelist": []
+    },
+    "options": {
+        "revokeMessagesOnBan": true
+    },
+    "cooldowns": {
+        "reports": 30,
+        "appeals": 10080,
+        "advertisement": 160,
+        "memberScrape": 10080
+    },
+    "mongo": {
+        "dbName": "ggs",
+        "url": "mongodb+srv://Zig:zigzag@ggscams.dtmoxl4.mongodb.net/"
+    }
+}
