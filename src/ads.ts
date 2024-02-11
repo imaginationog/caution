@@ -83,8 +83,8 @@ async function tick() {
 				inline_keyboard: [
 					[
 						{
-							text: '@CAUTION',
-							url: 'https://t.me/caution',
+							text: '@GamblingScams',
+							url: 'https://t.me/gamblingscams',
 						},
 					],
 				],
