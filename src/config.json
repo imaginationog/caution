@@ -1,10 +1,9 @@
 {
-    "apiId": 28757012,
-    "apiHash": "e397d7a295c6c2dbcc31dad45b7c6405",
-    "token": "6975392056:AAFzkNFqAtDr11qRKotDCDruvH4nR3XsfsU",
+    "apiId": xxxxx,
+    "apiHash": "xxxx",
+    "token": "xxx",
     "staff": [
-        6075292981, 6066784716, 5695447935, 1428117051, 6324435961
-    ],
+        xxxxx
     "channels": {
         "proofTopics": -1002009626163,
         "publicLog": -1002039778366,
@@ -23,7 +22,7 @@
         "memberScrape": 10080
     },
     "mongo": {
-        "dbName": "ggs",
-        "url": "mongodb+srv://Zig:zigzag@ggscams.dtmoxl4.mongodb.net/"
+        "dbName": "xxx",
+        "url" "x"
     }
 }
