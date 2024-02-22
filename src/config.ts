@@ -1,10 +1,10 @@
-import fs from 'fs';
+
 
 const config: Config = {
-    apiId: 28757012, // Replace with your API ID
-    apiHash: 'e397d7a295c6c2dbcc31dad45b7c6405', // Replace with your API hash
-    token: '6975392056:AAE9yI5EbkhPA_M9oLGQDesyxRAhoHsYM-M', // Replace with your bot token
-    staff: [6075292981],
+    apiId: , // Replace with your API ID
+    apiHash: '', // Replace with your API hash
+    token: '
+    staff: [],
     channels: {
         proofTopics: -4152640080,
         publicLog: -1002039778366,
@@ -23,8 +23,10 @@ const config: Config = {
         memberScrape: 60 * 24 * 7, // 7 days
     },
     mongo: {
-        dbName: 'ggs', // Your MongoDB database name
-        url: 'mongodb+srv://Zig:zigzag@ggscams.dtmoxl4.mongodb.net/', // Your MongoDB connection URL
+        dbName: 
+        '', // Your MongoDB database name
+        url: '
+            ', //  MongoDB connection URL
     },
 };
 
